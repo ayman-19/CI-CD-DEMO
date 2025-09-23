@@ -6,7 +6,7 @@ namespace CI_CD_DEMO
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+/
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
