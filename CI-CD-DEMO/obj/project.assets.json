@@ -541,11 +541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CI-CD-DEMO\\CI-CD-DEMO\\CI-CD-DEMO.csproj",
+      "projectUniqueName": "E:\\CI-CD-DEMO\\CI-CD-DEMO\\CI-CD-DEMO\\CI-CD-DEMO.csproj",
       "projectName": "CI-CD-DEMO",
-      "projectPath": "D:\\CI-CD-DEMO\\CI-CD-DEMO\\CI-CD-DEMO.csproj",
+      "projectPath": "E:\\CI-CD-DEMO\\CI-CD-DEMO\\CI-CD-DEMO\\CI-CD-DEMO.csproj",
       "packagesPath": "C:\\Users\\Ayman\\.nuget\\packages\\",
-      "outputPath": "D:\\CI-CD-DEMO\\CI-CD-DEMO\\obj\\",
+      "outputPath": "E:\\CI-CD-DEMO\\CI-CD-DEMO\\CI-CD-DEMO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
