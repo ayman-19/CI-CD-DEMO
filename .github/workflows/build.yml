@@ -43,4 +43,4 @@ jobs:
         context: .
         file: ./CI-CD-DEMO/Dockerfile
         push: true
-        tags: ayman20030506/CI-CD-DEMO:latest
+        tags: ayman20030506/app:latest
