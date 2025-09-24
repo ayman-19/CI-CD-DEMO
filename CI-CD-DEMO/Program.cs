@@ -21,7 +21,6 @@ namespace CI_CD_DEMO
 
             app.UseAuthorization();
 
-
             app.MapControllers();
 
             app.Run();
